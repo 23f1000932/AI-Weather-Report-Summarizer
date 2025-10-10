@@ -1,0 +1,5 @@
+Craft a prompt to send to a coding agent given the requirements stared below.
+ask questions if needed
+
+
+```i want to create an AI-weather summarizer. I know python and FASTAPI. I want the user to be able to send a post request with his location details. The location details once fetched onto the server will then be used to make an external API call onto OPWN-METEO with payload of latitude and longitude sent from user-side and i just want yo know temperature and humidity of that location, from which we receive structure JSON RESPONSE . that response will then be passed on to GEMINI free-tier LLM summarize the entire weather report JSON and then summarized response will then be sent to user```
