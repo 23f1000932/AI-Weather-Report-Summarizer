@@ -49,7 +49,7 @@ This FastAPI application allows users to get human-friendly weather summaries fo
    GEMINI_API_KEY=your_gemini_api_key_here
    ```
    
-   Get your free Gemini API key from: https://makersuite.google.com/app/apikey
+   Get your free Gemini API key from: https://aistudio.google.com/app/api-keys
 
 5. **Run the application**
    ```bash
